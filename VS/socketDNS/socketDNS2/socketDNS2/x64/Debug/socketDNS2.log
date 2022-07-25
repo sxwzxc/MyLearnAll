@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\learn\VS\socketDNS\socketDNS2\socketDNS2\main.cpp(201,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  socketDNS2.vcxproj -> D:\learn\VS\socketDNS\socketDNS2\x64\Debug\socketDNS2.exe

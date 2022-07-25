@@ -1,0 +1,18 @@
+﻿  Reading Qt configuration (C:\Qt\Qt5.12.12\5.12.12\msvc2017_64\bin\qmake.exe)
+  uic getDNS.ui
+  rcc getDNS.qrc
+  moc getDNS.h
+   RCC: Warning: No resources in 'D:\learn\QT\getDNS\getDNS\getDNS\getDNS.qrc'.
+  getDNS.cpp
+  main.cpp
+  qrc_getDNS.cpp
+  moc_getDNS.cpp
+getDNS.obj : error LNK2019: 无法解析的外部符号 closesocket，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 htons，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 inet_addr，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 recv，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 sendto，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 socket，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 WSAStartup，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+getDNS.obj : error LNK2019: 无法解析的外部符号 WSACleanup，该符号在函数 "public: int __cdecl getDNS::socketDNS(void)" (?socketDNS@getDNS@@QEAAHXZ) 中被引用
+D:\learn\QT\getDNS\getDNS\x64\Release\\getDNS.exe : fatal error LNK1120: 8 个无法解析的外部命令

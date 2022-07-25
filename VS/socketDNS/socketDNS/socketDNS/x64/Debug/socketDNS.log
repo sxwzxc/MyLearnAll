@@ -1,0 +1,7 @@
+﻿  socketDNS.cpp
+D:\learn\VS\socketDNS\socketDNS\socketDNS\socketDNS.cpp(98,19): warning C4101: “dns_servername”: 未引用的局部变量
+D:\learn\VS\socketDNS\socketDNS\socketDNS\socketDNS.cpp(170,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\learn\VS\socketDNS\socketDNS\socketDNS\socketDNS.cpp(125,46): warning C4101: “addit”: 未引用的局部变量
+D:\learn\VS\socketDNS\socketDNS\socketDNS\socketDNS.cpp(125,36): warning C4101: “auth”: 未引用的局部变量
+D:\learn\VS\socketDNS\socketDNS\socketDNS\socketDNS.cpp(120,15): warning C4101: “stop”: 未引用的局部变量
+  socketDNS.vcxproj -> D:\learn\VS\socketDNS\socketDNS\x64\Debug\socketDNS.exe

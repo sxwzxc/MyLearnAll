@@ -1,0 +1,14 @@
+﻿  {{xgTaskID=00000004}}
+  main.cpp
+D:\learn\VS\UAT_USER_C\Project2\Project2\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\learn\VS\UAT_USER_C\Project2\Project2\main.cpp(146,8): warning C4311: “类型强制转换”: 从“HINSTANCE”到“int”的指针截断
+D:\learn\VS\UAT_USER_C\Project2\Project2\main.cpp(146,8): warning C4302: “类型强制转换”: 从“HINSTANCE”到“int”截断
+  {{xgTaskID=00000000}}
+  {{xgTaskID=00000005}}
+  正在生成代码
+  2 of 7 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  {{xgTaskID=00000000}}
+  Project2.vcxproj -> D:\learn\VS\UAT_USER_C\Project2\x64\Release\Project2.exe
