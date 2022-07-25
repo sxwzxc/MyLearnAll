@@ -1,0 +1,12 @@
+﻿  main.c
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\challenge.h(13): warning C4005: “CLK_TCK”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(590): note: 参见“CLK_TCK”的前一个定义
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(64): warning C4013: “gettimeofday”未定义；假设外部返回 int
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(96): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(168): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(178): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在跳过...(未检测到相关更改)
+  MyAns.h
+  dispersion_test.vcxproj -> D:\learn\VS\Dispersion_test\dispersion_test\Debug\dispersion_test.exe
+  dispersion_test.vcxproj -> D:\learn\VS\Dispersion_test\dispersion_test\Debug\dispersion_test.pdb (Partial PDB)

@@ -1,0 +1,53 @@
+﻿  main.c
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(18): error C2054: 在“using”之后应输入“(”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(18): error C2061: 语法错误: 标识符“using”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(19): error C2054: 在“using”之后应输入“(”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(19): error C2061: 语法错误: 标识符“using”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(20): error C2061: 语法错误: 标识符“asctime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(20): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(20): error C2061: 语法错误: 标识符“clock”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(20): error C2061: 语法错误: 标识符“ctime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(21): error C2061: 语法错误: 标识符“difftime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(21): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(21): error C2061: 语法错误: 标识符“gmtime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(21): error C2061: 语法错误: 标识符“localtime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(22): error C2061: 语法错误: 标识符“mktime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(22): error C2059: 语法错误:“;”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(22): error C2061: 语法错误: 标识符“strftime”
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ctime(22): error C2061: 语法错误: 标识符“time”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\challenge.h(12): warning C4005: “CLK_TCK”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(590): note: 参见“CLK_TCK”的前一个定义
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\challenge.h(84): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\challenge.h(91): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\challenge.h(95): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\challenge.h(97): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(13): error C2037: “tv_usec”的左侧部分指定未定义的结构/联合“timeval”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(14): error C2037: “tv_sec”的左侧部分指定未定义的结构/联合“timeval”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(14): warning C4033: “timeDiff”必须返回值
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(36): error C2079: “start_time”使用未定义的 struct“timeval”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(36): error C2079: “end_time”使用未定义的 struct“timeval”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(64): warning C4013: “gettimeofday”未定义；假设外部返回 int
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(68): warning C4133: “函数”: 从“int *”到“timeval *”的类型不兼容
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(38): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(48): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(50): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(59): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(95): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(102): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(111): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(112): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(132): error C2079: “start_time”使用未定义的 struct“timeval”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(132): error C2079: “end_time”使用未定义的 struct“timeval”
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(148): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(158): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\learn\vs\dispersion_test\dispersion_test\dispersion_test\main.c(165): warning C4133: “函数”: 从“int *”到“timeval *”的类型不兼容

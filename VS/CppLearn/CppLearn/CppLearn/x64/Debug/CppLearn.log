@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\learn\vs\cpplearn\cpplearn\cpplearn\main.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\learn\vs\cpplearn\cpplearn\cpplearn\main.cpp(20): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+d:\learn\vs\cpplearn\cpplearn\cpplearn\main.cpp(27): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+d:\learn\vs\cpplearn\cpplearn\cpplearn\main.cpp(30): warning C4101: “deviceIDLow”: 未引用的局部变量
+d:\learn\vs\cpplearn\cpplearn\cpplearn\main.cpp(29): warning C4101: “deviceIDHigh”: 未引用的局部变量
+d:\learn\vs\cpplearn\cpplearn\cpplearn\main.cpp(18): warning C4101: “deviceIDHigh”: 未引用的局部变量
+  CppLearn.vcxproj -> D:\learn\VS\CppLearn\CppLearn\x64\Debug\CppLearn.exe
+  CppLearn.vcxproj -> D:\learn\VS\CppLearn\CppLearn\x64\Debug\CppLearn.pdb (Partial PDB)

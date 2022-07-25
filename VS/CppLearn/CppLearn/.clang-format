@@ -1,0 +1,39 @@
+# 基础样式
+BasedOnStyle: Google
+
+# 语言
+Language: Cpp
+# C++标准
+# Standard: c++11
+
+# 是否使用tab
+UseTab: Never
+# 缩进宽度
+IndentWidth: 4
+# tab换成空格的宽度
+TabWidth: 4
+# 类的访问修饰符缩进宽度
+AccessModifierOffset: -4
+
+# 每行字符的限制，0表示没有限制
+ColumnLimit: 80
+# 大括号换行风格，Allman是全换行
+BreakBeforeBraces: Allman
+# 二元运算符换行样式
+BreakBeforeBinaryOperators: NonAssignment
+# 仅允许空的代码段在同一行
+AllowShortBlocksOnASingleLine: Empty
+# 允许空和inline函数在同一行
+AllowShortFunctionsOnASingleLine: Inline
+# if语句不允许在同一行
+AllowShortIfStatementsOnASingleLine: Never
+# 短或者内联lambda表达式允许在同一行
+AllowShortLambdasOnASingleLine: All
+
+# 单行//注释前的空格数
+SpacesBeforeTrailingComments: 1
+# 指针以及引用的对齐方式
+PointerAlignment: Right
+
+# 对齐
+AlignTrailingComments: true

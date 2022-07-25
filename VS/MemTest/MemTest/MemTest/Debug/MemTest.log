@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\learn\vs\memtest\memtest\memtest\main.h(18): warning C4172: 返回局部变量或临时变量的地址: a
+  MemTest.vcxproj -> D:\learn\VS\MemTest\MemTest\Debug\MemTest.exe
+  MemTest.vcxproj -> D:\learn\VS\MemTest\MemTest\Debug\MemTest.pdb (Partial PDB)
